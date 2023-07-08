@@ -17,7 +17,7 @@
 ##
 
 ### What is InstaSub?
-[**InstaSub**](https://github.com/RozhakXD/InstaSub) is a script used to get followers for free using Termux and the [Traodoisub](https:www/traodoisub.com) website. Before that you have to carry out a mission to get Coins and then exchange them for Instagram followers.
+[**InstaSub**](https://github.com/RozhakXD/InstaSub) is a script used to get followers for free using Termux and the [Traodoisub]() website. Before that you have to carry out a mission to get Coins and then exchange them for Instagram followers.
 
 ### Termux command
 First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) application to run this tool and for how to use it can be seen on [**Youtube**](https://www.youtube.com/rozhakid). Then you enter some basic commands below!
