@@ -20,7 +20,7 @@
 [**InstaSub**](https://github.com/RozhakXD/InstaSub) is a script used to get followers for free using Termux and the [Traodoisub]() website. Before that you have to carry out a mission to get Coins and then exchange them for Instagram followers.
 
 ### Termux command?
-First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) application to run this tool and for how to use it can be seen on [**Youtube**](https://youtu.be/UZQHApqGsl8). Then you enter some basic commands below!
+First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) application to run this tool and for how to use it can be seen on [**Youtube**](https://drive.google.com/file/d/1gegmpwmcAum9MIzaWuOxJBN7qDfGW-3u/view?usp=sharing). Then you enter some basic commands below!
 ```
 $ apt update -y && apt upgrade -y
 $ pkg install git python-pip
