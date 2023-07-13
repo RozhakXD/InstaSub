@@ -1,6 +1,6 @@
 # FREE INSTAGRAM FOLLOWERS - WITH TERMUX
 <div align="center">
-  <img src="Data/Traodoisub.jpg">
+  <img src="Data/Traodoisub.png">
   <br>
   <br>
   <p>
