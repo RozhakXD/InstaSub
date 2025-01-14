@@ -1,68 +1,56 @@
-# FREE INSTAGRAM FOLLOWERS - WITH TERMUX
-<div align="center">
-  <img src="Data/Traodoisub.png">
-  <br>
-  <br>
-  <p>
-    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/rozhakxd/InstaSub">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/rozhakxd/InstaSub">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/rozhakxd/InstaSub">
-    <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/rozhakxd/InstaSub">
-    <img alt="Maintenance" src="https://img.shields.io/maintenance/no/2023">
-  </p>
-  <h4> Get Followers On Instagram Using Termux Only ! </h4>
-</div>
+# InstaSub — Boost Your Instagram Followers Instantly! 🚀
+![InstaSub Logo](https://github.com/user-attachments/assets/14086ca0-25e8-478a-9d25-c0052b93cbf4)
 
-##
+Welcome to **InstaSub**! 🎉 This console-based tool is designed to help you gain Instagram followers instantly by exchanging collected coins from Traodoisub. With its user-friendly interface and powerful features, you can enhance your Instagram presence effortlessly.
 
-### What is InstaSub?
-[**InstaSub**](https://github.com/RozhakXD/InstaSub) is a script used to get followers for free using Termux and the [Traodoisub]() website. Before that you have to carry out a mission to get Coins and then exchange them for Instagram followers.
+## Features 🌟
+- **Exchange Coins for Followers**: Convert your collected coins into real Instagram followers. 💸 → 📈
+- **Run Follow Missions**: Complete missions to earn more coins and followers. 🏃‍♂️💨
+- **Exchange Coins for Likes**: Turn your coins into likes for your Instagram posts. 💸 → ❤️
+- **Run Like Missions**: Earn coins by liking posts on Instagram. 📸❤️
+- **Check Pending Coins**: Keep track of your pending coins and ensure nothing is missed. 🕒
 
-### Termux command?
-First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) application to run this tool and for how to use it can be seen on [**Youtube**](https://youtu.be/UZQHApqGsl8). Then you enter some basic commands below!
-```
-$ apt update -y && apt upgrade -y
-$ pkg install git python-pip
-$ git clone https://github.com/RozhakXD/InstaSub
-$ cd "InstaSub"
-$ python -m pip install -r requirements.txt
+## Requirements 🛠️
+- Python 3.x or higher. 🐍
+- Libraries:
+    - `requests` 🌐
+    - `rich` 🌟
+    - `os` 📂
+    - `sys` ⚙️
+
+## Installation 💻
+```bash
+$ pkg update -y && pkg upgrade -y
+$ pkg install python-pip git
+$ git clone https://github.com/RozhakXD/InstaSub.git
+$ cd InstaSub
+$ pip install -r requirements.txt
 $ python Run.py
 ```
 
-```
-$ cd "$HOME/InstaSub" && git pul
-$ python Run.py
-```
+## Important Notes 📝
+- **Instagram Account Requirements**:
+    - Your Instagram account must have a profile picture, a Vietnamese name, at least 3 posts, and a minimum of 10 followers to run missions.
+    - Ensure your Instagram account is not set to private to allow all processes to run smoothly.
+- **Using Multiple Cookies**:
+    - You can use multiple Instagram cookies by separating each cookie with a comma. Example: `Cookie1`, `Cokie2`, `Cookie3`.
 
-### Why did my account get spammed?
-Maybe you are using a new account or the delay used is too short. After 24 hours your account will return to normal or no longer be spammed. I have several solutions to deal with accounts getting spammed while on missions.
+## Screenshots 📷
+![Images]()
 
-**Solution :**
-- Using Cookies randomly to be more secure.
-- Using a delay above 60 seconds.
-- Do not use the newly created account.
+## Troubleshooting 🛠️
+- **Insufficient Credits**: Make sure you have at least 50 credits in your Traodoisub account before exchanging for followers or likes.
+- **Connection Issues**: Ensure a stable internet connection and retry. If problems persist, check the Traodoisub server status.
+- **Mission Not Running**: Increase the mission delay (recommended over 15 seconds) and verify your Instagram account cookies.
 
-### When will the coins arrive at Traodoisub?
-After completing the mission, your coins will be checked for *1 to 7* days before arriving in your Traodoisub account. Make sure your account is unlocked and don't unfollow accounts that have previously been followed so that the coins can successfully arrive at the Traodoisub account. If the account is dead you will not get any coins!
+## Support Us ☕
+If you find InstaSub helpful, consider supporting our project through [Trakteer](https://trakteer.id/rozhak_official/tip), [PayPal](https://paypal.me/rozhak9), or [Saweria](https://saweria.co/rozhak9). Your support means a lot to us! 🙏
 
-### When will followers come in?
-If you have exchanged coins for followers you will get followers slowly according to the number of users on the Traodoisub website. This happens because it is influenced by the number of website users and in order to reduce spam on our Instagram account.
+## Warning ⚠️
+Please adhere to Instagram's terms of service and policies while using this tool. Any violation may result in your account being banned. Use InstaSub responsibly. 🛑
 
-### Instagram account requirements?
-There is a requirement to add an Instagram account to the Traodoisub configuration. I do not recommend that you use the main account to carry out missions or login in scripts.
+## Contribute 🤝
+We welcome contributions from the community! If you have suggestions, improvements, or new features in mind, feel free to open an issue or submit a pull request. Let's make InstaSub even better together! 🌟
 
-**Requirement :**
-- Having a name on the account is only Vietnamese, for example : *Nguyễn Văn*
-- The account is not in private mode.
-- Have a profile photo.
-- Not a newly created account.
-- Have 3 posts in the account.
-
-If it meets the requirements but cannot be added to the configuration, then the account is not supported or the website is having an error when adding to the configuration.
-
-##
-```python
-print("Good luck hope it works!")
-```
-##
+## License 📄
+This project is licensed under the [MIT License]().
