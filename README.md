@@ -49,8 +49,5 @@ Enjoying InstaSub? Support our journey! 🌟 If InstaSub has been helpful, consi
 ## Warning ⚠️
 Please adhere to Instagram's terms of service and policies while using this tool. Any violation may result in your account being banned. Use InstaSub responsibly. 🛑
 
-## Contribute 🤝
-We welcome contributions from the community! If you have suggestions, improvements, or new features in mind, feel free to open an issue or submit a pull request. Let's make InstaSub even better together! 🌟
-
 ## License 📄
 This project is licensed under the [MIT License]().
