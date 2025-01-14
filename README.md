@@ -33,18 +33,18 @@ $ python Run.py
     - Your Instagram account must have a profile picture, a Vietnamese name, at least 3 posts, and a minimum of 10 followers to run missions.
     - Ensure your Instagram account is not set to private to allow all processes to run smoothly.
 - **Using Multiple Cookies**:
-    - You can use multiple Instagram cookies by separating each cookie with a comma. Example: `Cookie1`, `Cokie2`, `Cookie3`.
+    - You can use multiple Instagram cookies by separating each cookie with a comma.
 
 ## Screenshots 📷
 ![Images]()
 
 ## Troubleshooting 🛠️
 - **Insufficient Credits**: Make sure you have at least 50 credits in your Traodoisub account before exchanging for followers or likes.
-- **Connection Issues**: Ensure a stable internet connection and retry. If problems persist, check the Traodoisub server status.
 - **Mission Not Running**: Increase the mission delay (recommended over 15 seconds) and verify your Instagram account cookies.
+- **Connection Issues**: Ensure a stable internet connection and retry. If problems persist, check the Traodoisub server status.
 
 ## Support Us ☕
-If you find InstaSub helpful, consider supporting our project through [Trakteer](https://trakteer.id/rozhak_official/tip), [PayPal](https://paypal.me/rozhak9), or [Saweria](https://saweria.co/rozhak9). Your support means a lot to us! 🙏
+Enjoying InstaSub? Support our journey! 🌟 If InstaSub has been helpful, consider fueling our project with your support through [Trakteer](https://trakteer.id/rozhak_official/tip), [PayPal](https://paypal.me/rozhak9), or [Saweria](https://saweria.co/rozhak9). Every contribution makes a huge difference—thank you for being awesome! 🙌
 
 ## Warning ⚠️
 Please adhere to Instagram's terms of service and policies while using this tool. Any violation may result in your account being banned. Use InstaSub responsibly. 🛑
