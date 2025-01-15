@@ -36,7 +36,7 @@ $ python Run.py
     - You can use multiple Instagram cookies by separating each cookie with a comma.
 
 ## Screenshots 📷
-![Images]()
+![FunPic_20250114](https://github.com/user-attachments/assets/5565422a-2903-43a5-ab00-fbd6613dbad0)
 
 ## Troubleshooting 🛠️
 - **Insufficient Credits**: Make sure you have at least 50 credits in your Traodoisub account before exchanging for followers or likes.
